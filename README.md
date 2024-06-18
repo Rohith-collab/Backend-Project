@@ -7,7 +7,7 @@ Implementing a user register and user details fetch endpoints for a RESTful API 
 
 -Maven
 
--curl or poestman
+-curl or postman
 
 -spring boot
 
