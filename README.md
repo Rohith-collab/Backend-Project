@@ -1,4 +1,4 @@
-# USER REGISTRATION AND FETCHING DATA - BACKEND PROJECT
+# USER REGISTRATION AND FETCHING DATA USING SPRING BOOT
 Implementing a user register and user details fetch endpoints for a RESTful API using Spring Boot
 
 **REQUIERMENTS**
